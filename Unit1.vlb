@@ -1,0 +1,16 @@
+﻿[ZConnection1]
+Coordinates=186,78,94,36
+
+[DBGrid1]
+Coordinates=10,78,64,36
+
+[Button1]
+Coordinates=158,10,59,58
+
+[ZQuery1]
+Coordinates=84,10,64,58
+
+[]
+Coordinates=318,56,97,36
+Visible=True
+
